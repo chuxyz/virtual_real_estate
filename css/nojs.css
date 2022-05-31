@@ -1,0 +1,19 @@
+.da-slide{
+	position: relative;
+}
+.da-slide h2,
+.da-slide p,
+.da-slide .da-link,
+.da-slide .slider-cont,
+.da-slide .da-img{
+	position: absolute;
+	opacity: 1;
+	display: block;
+}
+.da-slide .da-img{
+	left: 0%;
+}
+.da-dots,
+.da-arrows{
+	display: none;
+}

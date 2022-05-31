@@ -1,0 +1,22 @@
+/* CSS Document */
+.item_list_div{
+	height:400px;
+	width:200px;
+	background-color:#F4F4F4;
+	position:absolute;
+	left:160px;
+	top:-1px;
+	border:1px solid #666;
+	background: -moz-linear-gradient(top, #F4F4F4, #F4F4F4);  
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#F4F4F4), to(#F4F4F4)); 
+	display:none;
+}
+.radio_box, .radio_box2, .radio_box3{
+	padding-bottom:25px;
+	color: #093;
+	margin:7px;
+	margin-bottom:10px;
+	height:10px;
+}
+
+
